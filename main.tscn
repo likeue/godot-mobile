@@ -1,0 +1,9 @@
+# Main Scene
+
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Main.gd" type="Script" id=1]
+
+[Node]
+name="Main"
+script=ExtResource( 1)
